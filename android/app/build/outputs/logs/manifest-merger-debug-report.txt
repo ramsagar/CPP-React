@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/laxmikant/.android/build-cache/ddc39e716305079f77c554ca9d8ae35b13705fef/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/laxmikant/.android/build-cache/ddc39e716305079f77c554ca9d8ae35b13705fef/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/laxmikant/.android/build-cache/62282b01d7c4fbcff225f189e009e57def605b27/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/laxmikant/.android/build-cache/90040c9d6a701cb5f89f37e087b18c7d8f151220/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/laxmikant/.android/build-cache/47928e7b6f725153d2d27dc510fc675243fd1d7b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/laxmikant/.android/build-cache/415b31de30d47ff7b96a3c25146475d9d8264ff5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/laxmikant/.android/build-cache/12bd8d1ace3d210f2277856f8d6b0a983ef3d555/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/laxmikant/.android/build-cache/56623e3aecd1d08a5bbe7d1dc8c36f7c14d1195f/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/laxmikant/.android/build-cache/4531cd30a0e6cf2f0acac2f256ca50329f8ca7d9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/laxmikant/.android/build-cache/ba1f9c11a3d0d9cfaded144a2624e616a1b1ade4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/laxmikant/.android/build-cache/eb6f968b883826cc4d00a5dae4e515916fa9153d/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/laxmikant/.android/build-cache/f9d8277b5c0c9dbe669165fe052cfc290496ee94/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/laxmikant/.android/build-cache/b439262d7ea6afc97c36c41a2b61ec58496252cb/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.cpp.MainActivity
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /projects/cpp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /home/laxmikant/.android/build-cache/ddc39e716305079f77c554ca9d8ae35b13705fef/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/laxmikant/.android/build-cache/62282b01d7c4fbcff225f189e009e57def605b27/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/laxmikant/.android/build-cache/90040c9d6a701cb5f89f37e087b18c7d8f151220/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/laxmikant/.android/build-cache/47928e7b6f725153d2d27dc510fc675243fd1d7b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/laxmikant/.android/build-cache/415b31de30d47ff7b96a3c25146475d9d8264ff5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/laxmikant/.android/build-cache/12bd8d1ace3d210f2277856f8d6b0a983ef3d555/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/laxmikant/.android/build-cache/56623e3aecd1d08a5bbe7d1dc8c36f7c14d1195f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/laxmikant/.android/build-cache/4531cd30a0e6cf2f0acac2f256ca50329f8ca7d9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/laxmikant/.android/build-cache/ba1f9c11a3d0d9cfaded144a2624e616a1b1ade4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/laxmikant/.android/build-cache/eb6f968b883826cc4d00a5dae4e515916fa9153d/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/laxmikant/.android/build-cache/3dd292f216926165afc5e4a8c304895a15c10d86/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/laxmikant/.android/build-cache/c018105752f6957288418ffa5e941ee2750dd5ea/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/laxmikant/.android/build-cache/91567f54f2f9bb3926585cd206e0078b17e2c33e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/laxmikant/.android/build-cache/c60a38d267cabab2f96ad70d858762cdd391a46d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/laxmikant/.android/build-cache/ae28bd1617134e83656bed3704c8e0421379a971/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/laxmikant/.android/build-cache/43cdc86810eb291b05f83e2cffd18bf31df1f711/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/laxmikant/.android/build-cache/936e47c60d8928cdc265c5f6d446ab44cb0039d1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/laxmikant/.android/build-cache/f9d8277b5c0c9dbe669165fe052cfc290496ee94/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /projects/cpp/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/laxmikant/.android/build-cache/62282b01d7c4fbcff225f189e009e57def605b27/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/laxmikant/.android/build-cache/90040c9d6a701cb5f89f37e087b18c7d8f151220/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/laxmikant/.android/build-cache/47928e7b6f725153d2d27dc510fc675243fd1d7b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/laxmikant/.android/build-cache/415b31de30d47ff7b96a3c25146475d9d8264ff5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/laxmikant/.android/build-cache/12bd8d1ace3d210f2277856f8d6b0a983ef3d555/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/laxmikant/.android/build-cache/56623e3aecd1d08a5bbe7d1dc8c36f7c14d1195f/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/laxmikant/.android/build-cache/4531cd30a0e6cf2f0acac2f256ca50329f8ca7d9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/laxmikant/.android/build-cache/ba1f9c11a3d0d9cfaded144a2624e616a1b1ade4/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/laxmikant/.android/build-cache/eb6f968b883826cc4d00a5dae4e515916fa9153d/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/laxmikant/.android/build-cache/eb6f968b883826cc4d00a5dae4e515916fa9153d/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/laxmikant/.android/build-cache/eb6f968b883826cc4d00a5dae4e515916fa9153d/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /projects/cpp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /projects/cpp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /projects/cpp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

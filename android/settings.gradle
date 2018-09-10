@@ -1,0 +1,3 @@
+rootProject.name = 'cpp'
+
+include ':app'

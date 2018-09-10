@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/laxmikant/.android/build-cache/ba1f9c11a3d0d9cfaded144a2624e616a1b1ade4/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
