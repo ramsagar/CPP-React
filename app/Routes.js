@@ -1,52 +1,36 @@
 import React, {Component} from 'react';
 import {Platform, StatusBar, Text, View, Button, TouchableOpacity} from 'react-native';
-import { createStackNavigator, createDrawerNavigator } from 'react-navigation';
+import { StackNavigator, DrawerNavigator } from 'react-navigation';
 
-import Home from './pages/home';
-import Login from './pages/login';
-import Form from './pages/form';
+import Home from './screens/home';
+import Login from './screens/login';
+import Form from './screens/form';
+import SideBar from "./screens/sidebar";
 
 
-const stackNavigatorOptions: (navigation) => {
-    initialRouteName: 'Home',
-    title: 'ReactNavigation',  // Title to appear in status bar
-        headerLeft: ()=>{
-            return(
-              <TouchableOpacity  >
-                {navigation.state.isDrawerOpen ? 'OPEN' : 'CLOSE'}
-              </TouchableOpacity>
-            )
-        },
-        headerStyle: {
-            backgroundColor: '#333',
-        },
-        headerTintColor: '#fff',
-        headerTitleStyle: {
-          fontWeight: 'bold',
-        },
-}
-
-const drawerNavigatorOptions = {
-    initialRouteName: 'Form'
-}
-
-const DrawerRouters = createDrawerNavigator({
+const DrawerRouters = DrawerNavigator({
   Home: {
     screen: Home,
   },
   Form: {
     screen: Form
   },
-}, drawerNavigatorOptions);
+},{
+    initialRouteName: 'Form',
+    contentOptions: {
+     activeTintColor: "#e91e63"
+    },
+    contentComponent: props => <SideBar {...props} />
+});
 
-const Routers = createStackNavigator({
-  Home: {
-    screen: DrawerRouters,
-  },
-  Login: {
-    screen: Login
-  },
-}, stackNavigatorOptions);
+const Routers = StackNavigator({
+  Drawer: { screen: DrawerRouters },
+}, {
+    initialRouteName: "Drawer",
+    headerMode: "none",
+    title: 'ReactNavigation',  // Title to appear in status bar
+
+});
 
 
 export default Routers;

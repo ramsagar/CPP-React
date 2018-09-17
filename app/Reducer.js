@@ -1,8 +1,8 @@
 import {combineReducers} from 'redux';
 
-import home from './pages/home/reducer';
-import login from './pages/login/reducer';
-import form from './pages/form/reducer';
+import home from './screens/home/reducer';
+import login from './screens/login/reducer';
+import form from './screens/form/reducer';
 
 
 const RootReducer = combineReducers({

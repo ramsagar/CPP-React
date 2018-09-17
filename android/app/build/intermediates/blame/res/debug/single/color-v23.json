@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
@@ -12,8 +20,20 @@
         "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
@@ -28,11 +48,27 @@
         "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
         "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/color-v23/abc_tint_default.xml"
     }
 ]

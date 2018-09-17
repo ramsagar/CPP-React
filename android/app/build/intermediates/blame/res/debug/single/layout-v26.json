@@ -2,5 +2,9 @@
     {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
         "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/home/laxmikant/.android/build-cache/0600ab916869a8281ad5f526abb9a2e529b9055b/output/res/layout-v26/abc_screen_toolbar.xml"
     }
 ]

@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/projects/CPP-React/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/projects/cpp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
         "merged": "/projects/cpp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/projects/cpp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/projects/CPP-React/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/projects/CPP-React/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     }
 ]
