@@ -16,20 +16,19 @@ const DrawerRouters = DrawerNavigator({
     screen: Form
   },
 },{
-    initialRouteName: 'Form',
+    initialRouteName: "Home",
     contentOptions: {
-     activeTintColor: "#e91e63"
+      activeTintColor: "#e91e63"
     },
     contentComponent: props => <SideBar {...props} />
-});
+  });
 
 const Routers = StackNavigator({
   Drawer: { screen: DrawerRouters },
-}, {
-    initialRouteName: "Drawer",
-    headerMode: "none",
-    title: 'ReactNavigation',  // Title to appear in status bar
-
+},
+{
+  initialRouteName: "Drawer",
+  headerMode: "none"
 });
 
 

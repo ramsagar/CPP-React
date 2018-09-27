@@ -22,6 +22,13 @@ const datas = [
     icon: "menu",
     bg: "#0A2C6B",
     types: "3"
+  },
+  {
+    name: "Form",
+    route: "Form",
+    icon: "menu",
+    bg: "#0A2C6B",
+    types: "3"
   }
 ];
 
