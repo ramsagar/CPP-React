@@ -4,9 +4,3 @@
 # User-specific files
 /node_modules
 npm-debug.log
-*.pdf
-*.png
-*.jpeg
-*.PDF
-*.PNG
-*.JPEG
